@@ -1,2 +1,2 @@
-# Hostel-Management-master
-Hostel-Management project
+# Hostel-Management
+Hostel Management
